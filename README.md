@@ -46,7 +46,8 @@ REST APIs, JWT Authentication, KYC Systems
 ## 📫 Connect With Me  
 - LinkedIn: https://www.linkedin.com/in/your-link  
 - GitHub: https://github.com/themakkonen  
-- Email: harshithreddyrollakanti@gmail.com  
+- Email: harshithreddyrollakanti@gmail.com
+- Portfolio: https://themakkonen.vercel.app/
 
 ---
 
