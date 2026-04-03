@@ -1,6 +1,6 @@
 # Hola , I'm Rollakanti Harshith Reddy 👋  
 
-🎓 AI/ML Enthusiast | 🤖 Full Stack Web Developer  
+🎓 AI/ML Enthusiast | 🤖 Full Stack Developer  
 
 ---
 
