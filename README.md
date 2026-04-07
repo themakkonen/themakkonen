@@ -18,7 +18,7 @@
 Python, Java  
 
 **Frameworks & Technologies:**  
-Flask, Flutter  
+Flask, Flutter, Django  
 
 **ML/DL:**  
 TensorFlow, PyTorch, Scikit-learn  
