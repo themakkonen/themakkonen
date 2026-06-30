@@ -1,22 +1,26 @@
 <div align="center">
 
-# Hi 👋, I'm Rollakanti Harshith Reddy
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rollakanti%20Harshith%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=themakkonen&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/themakkonen?logo=github&style=for-the-badge" />
+</p>
 
 ### Software Developer • AI/ML Engineer • Full Stack Developer
 
 Building intelligent software, AI-powered applications, and scalable FinTech solutions.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rollakanti%20Harshith%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
-
-<img src="https://komarev.com/ghpvc/?username=themakkonen&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/themakkonen?logo=github&style=for-the-badge"/>
-
 </div>
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<table>
+<tr>
+<td width="65%" valign="top">
 
 # 👨‍💻 About Me
 
@@ -26,6 +30,16 @@ Building intelligent software, AI-powered applications, and scalable FinTech sol
 - 🤖 Passionate about AI, Machine Learning, NLP & FinTech
 - 🌱 Currently learning **LLMs, RAG, Agentic AI & MLOps**
 - 💡 Love building scalable software with real-world impact
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
