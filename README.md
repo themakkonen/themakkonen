@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rollakanti Harshith Reddy</h1>
 
 <h3 align="center">
-🚀 Software Developer • AI/ML Engineer • Full Stack Developer • FinTech Innovator
+🚀 Software Developer • AI/ML Engineer • Full Stack Developer
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@ Building AI-powered products, scalable fintech applications, and intelligent sof
 
 💼 Software Developer Intern @ **Torch Fintech Pvt. Ltd.**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning & FinTech
+🤖 Passionate about Artificial Intelligence, Machine Learning & Software product development
 
 🚀 Currently building **LumeX** — India's Smart Student Identity & Digital Campus Ecosystem
 
