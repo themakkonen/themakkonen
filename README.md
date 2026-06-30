@@ -1,49 +1,133 @@
 <h1 align="center">Hi 👋, I'm Rollakanti Harshith Reddy</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast • Full Stack Developer • Fintech Innovator
+🚀 Software Developer • AI/ML Engineer • Full Stack Developer • FinTech Innovator
 </h3>
 
 <p align="center">
-Building intelligent AI applications, scalable backend systems, and next-generation fintech solutions.
+Building AI-powered products, scalable fintech applications, and intelligent software solutions.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+LumeX+Student+Super+App;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Machine+Learning+Engineer;Building+LumeX+Student+Super+App;Flutter+%7C+Python+%7C+Flask+%7C+React;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Always+Learning+New+Technologies+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=themakkonen&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/themakkonen?label=Followers&style=flat-square"/>
+<img src="https://img.shields.io/github/stars/themakkonen?affiliations=OWNER&style=flat-square"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 Computer Science Engineering (AI & ML)
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
-- 💳 Currently building **LumeX** – India's Smart Student Identity & Fintech Platform
-- 🌱 Learning **LLMs, RAG, Agentic AI, MLOps & Cloud AI**
-- 🔍 Interested in AI Research, NLP, Computer Vision & Intelligent Systems
-- 💡 Love building products that solve real-world problems
-- 🎯 Goal: Become an AI Engineer & Tech Entrepreneur
-- ⚡ Fun Fact: My models train faster than my patience. 😄
+🎓 B.Tech in Computer Science & Engineering (AI & ML)
+
+💼 Software Developer Intern @ **Torch Fintech Pvt. Ltd.**
+
+🤖 Passionate about Artificial Intelligence, Machine Learning & FinTech
+
+🚀 Currently building **LumeX** — India's Smart Student Identity & Digital Campus Ecosystem
+
+🌱 Exploring
+
+- Generative AI
+- Large Language Models (LLMs)
+- Agentic AI
+- RAG Applications
+- MLOps
+- Cloud AI
+
+💡 Interested in
+
+- Artificial Intelligence
+- Computer Vision
+- NLP
+- Deep Learning
+- FinTech
+- Full Stack Development
+
+⚡ Fun Fact
+
+> I enjoy debugging AI models almost as much as building them. 😄
 
 ---
 
-## 💼 Experience
+# 💼 Professional Experience
 
-### 🤖 AI/ML Intern
-**Edunet Foundation × AICTE × Shell**
+## 💳 Software Developer Intern
+### Torch Fintech Pvt. Ltd.
 
-- Built AI solutions for sustainability
-- Developed and optimized ML models
-- Worked on data preprocessing and model evaluation
+- Developed Flutter mobile applications and modern web interfaces.
+- Built AI-powered CRM modules using Flask REST APIs.
+- Worked on student identity, digital payments and smart campus services.
+- Designed scalable backend architecture for fintech applications.
+- Integrated intelligent automation into production-ready systems.
 
-### 📊 Data Science & Analytics Intern
-**Zidio Development**
+---
 
-- Data preprocessing & visualization
-- Machine Learning model development
-- Business insights through analytics
+## 🤖 AI/ML Intern
+### Edunet Foundation × AICTE × Shell
+
+- Built AI solutions for sustainability.
+- Designed complete ML pipelines.
+- Performed feature engineering and model optimization.
+- Delivered an AI prototype for real-world environmental applications.
+
+---
+
+# 🚀 Featured Projects
+
+## 💳 LumeX
+
+An AI-powered Student Super App featuring
+
+- Smart Student ID
+- Digital Wallet
+- Campus Payments
+- Student Discounts
+- ATS Resume Builder
+- Jobs & Internship Portal
+- AI Career Assistant
+- Smart Campus Services
+
+---
+
+## 🛡️ UPI Fraud Detection using Deep Learning
+
+Built a real-time fraud detection system using
+
+- LSTM Networks
+- Autoencoders
+- Transaction Sequence Analysis
+- Anomaly Detection
+- Financial Risk Prediction
+
+---
+
+## 🤖 Question Answering System using BERT
+
+Developed an NLP-based QA platform capable of
+
+- Context-aware Question Answering
+- DistilBERT Inference
+- Web Content Extraction
+- Flask Backend Deployment
+
+---
+
+## 👤 Gender & Age Detection
+
+Deep Learning based Computer Vision application using
+
+- OpenCV DNN
+- CNN
+- Caffe Models
+- Real-time Face Detection
+- Live Video Processing
 
 ---
 
@@ -52,85 +136,63 @@ Building intelligent AI applications, scalable backend systems, and next-generat
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,dart,c" />
+<img src="https://skillicons.dev/icons?i=python,java,dart,javascript,sql"/>
 </p>
 
-### 🌐 Web & App Development
+### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,flutter,flask,django" />
+<img src="https://skillicons.dev/icons?i=flutter,react,html,css"/>
 </p>
 
-### 🤖 AI / Machine Learning
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=flask,django,nodejs"/>
 </p>
 
-**Also Experienced With**
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+**Libraries**
 
 - Scikit-Learn
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 
-### 🗄️ Database & Cloud
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🏆 Achievements
 
-## 💳 LumeX
+🥇 Winner — Ideathon 2.0 Innovation Challenge
 
-Smart Student Identity & Fintech Platform
+🏅 Google Developer Groups on Campus — Hack2Skill
 
-- Student Digital ID
-- Wallet & Payments
-- NCMC Integration
-- Student Discounts
-- ATS Resume Builder
-- Jobs & Internships
-- Smart Campus Services
+🏅 TCS iON Career Edge
+
+🏅 HackerRank Python (Basics)
+
+🏅 Microsoft Code Cubicle Participant
 
 ---
 
-## 🛡️ UPI Fraud Detection using Deep Learning
-
-- Deep Learning based fraud detection
-- Transaction anomaly analysis
-- High accuracy fraud prediction
-- Secure financial intelligence
-
----
-
-## 🏋️ FitQuest
-
-AI Powered Gamified Fitness Adventure
-
-- Human Activity Recognition
-- Personalized Workouts
-- Calorie Prediction
-- AI Recommendations
-
----
-
-## 🤖 NITA
-
-AI Voice Assistant
-
-- Voice Commands
-- NLP
-- Task Automation
-- Smart Desktop Assistant
-
----
-
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -151,14 +213,12 @@ AI Voice Assistant
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=themakkonen&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
 </p>
 
 ---
 
-# 🌍 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -167,7 +227,7 @@ AI Voice Assistant
 </a>
 
 <a href="https://github.com/themakkonen">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harshith-reddy-rollakanti">
@@ -182,15 +242,7 @@ AI Voice Assistant
 
 ---
 
-# 📊 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=themakkonen&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/themakkonen/themakkonen/output/github-snake-dark.svg">
@@ -200,14 +252,10 @@ AI Voice Assistant
 
 ---
 
+<h2 align="center">
+"Turning Ideas into Intelligent Software."
+</h2>
+
 <h3 align="center">
-
-💡 *"Building AI that solves problems, not just models that achieve accuracy."*
-
+⭐ Open to Software Development, AI/ML, Full Stack, FinTech and Research Opportunities.
 </h3>
-
-<h4 align="center">
-
-⭐ Open to AI/ML, Data Science, Full Stack Development & FinTech opportunities.
-
-</h4>
