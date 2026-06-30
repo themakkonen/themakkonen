@@ -47,7 +47,6 @@ Building AI-powered products, scalable fintech applications, and intelligent sof
 - Computer Vision
 - NLP
 - Deep Learning
-- FinTech
 - Full Stack Development
 
 ⚡ Fun Fact
