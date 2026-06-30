@@ -1,74 +1,70 @@
-<h1 align="center">Hi 👋, I'm Rollakanti Harshith Reddy</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer • AI/ML Engineer • Full Stack Developer 
-</h3>
+# Hi 👋, I'm Rollakanti Harshith Reddy
 
-<p align="center">
-Building intelligent software, AI-powered applications, and scalable fintech solutions.
-</p>
+### Software Developer • AI/ML Engineer • Full Stack Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&repeat=true&width=850&lines=Software+Developer;AI+%26+Machine+Learning+Engineer;Flutter+%7C+Python+%7C+Flask+%7C+React;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+LumeX+Student+Super+App" alt="Typing SVG" />
-</p>
+Building intelligent software, AI-powered applications, and scalable FinTech solutions.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=themakkonen&label=Profile%20Views&color=0891b2&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/themakkonen?logo=github&style=for-the-badge&color=0891b2" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rollakanti%20Harshith%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+
+<img src="https://komarev.com/ghpvc/?username=themakkonen&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/themakkonen?logo=github&style=for-the-badge"/>
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 **B.Tech – Computer Science & Engineering (AI & ML)**
-- 💼 **Software Developer Intern @ Torch Fintech Pvt. Ltd.**
-- 🚀 Building **LumeX** — India's Smart Student Identity & FinTech Ecosystem
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Full Stack Development
-- 🌱 Currently exploring **Generative AI • LLMs • Agentic AI • RAG • MLOps**
-- 💡 Interested in **Computer Vision, NLP, FinTech & Intelligent Systems**
-- ⚡ Always learning, always building.
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
+- 💼 Software Developer Intern @ **Torch Fintech Pvt. Ltd.**
+- 🚀 Building **LumeX** — Smart Student Identity & Digital Campus Ecosystem
+- 🤖 Passionate about AI, Machine Learning, NLP & FinTech
+- 🌱 Currently learning **LLMs, RAG, Agentic AI & MLOps**
+- 💡 Love building scalable software with real-world impact
 
 ---
 
-# 💻 Tech Stack
+# ⚙️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,dart,javascript,sql"/>
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,react,html,css"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,django,nodejs"/>
 </p>
 
-### 🤖 AI / ML
+### AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 </p>
 
-### 🗄️ Databases
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
 </p>
 
-### 🛠️ Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,pycharm"/>
 </p>
 
 ---
@@ -76,7 +72,9 @@ Building intelligent software, AI-powered applications, and scalable fintech sol
 # 📈 GitHub Activity
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=themakkonen&theme=tokyo-night&hide_border=true&area=true"/>
+
 </p>
 
 ---
@@ -84,42 +82,34 @@ Building intelligent software, AI-powered applications, and scalable fintech sol
 # 📊 GitHub Analytics
 
 <p align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themakkonen&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themakkonen&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=themakkonen&theme=tokyonight" width="49%"/>
-</p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=themakkonen&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=themakkonen&theme=tokyonight&utcOffset=5.5" width="49%"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=themakkonen&theme=tokyonight" width="48%"/>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=themakkonen&theme=tokyonight&utcOffset=5.5" width="48%"/>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=themakkonen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://themakkonen.vercel.app" target="_blank">
+<a href="https://themakkonen.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/themakkonen" target="_blank">
+<a href="https://github.com/themakkonen">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/harshith-reddy-rollakanti" target="_blank">
+<a href="https://www.linkedin.com/in/harshith-reddy-rollakanti">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -131,10 +121,12 @@ Building intelligent software, AI-powered applications, and scalable fintech sol
 
 ---
 
-<h2 align="center">
-💡 <i>"Building intelligent software that creates real-world impact."</i>
-</h2>
+<div align="center">
 
-<p align="center">
-⭐ Open to <b>Software Development • AI/ML • Full Stack • FinTech • Research Opportunities</b>
-</p>
+### 💡 *"Building intelligent software that creates real-world impact."*
+
+⭐ **Open to Software Development • AI/ML • Full Stack • FinTech Opportunities**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
