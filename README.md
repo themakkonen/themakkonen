@@ -56,6 +56,21 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 - 💡 Improving application performance, scalability, and user experience.
 - 🏦 Contributing to innovative digital payment and financial technology products.
 
+<br>
+
+## Software Developer Intern
+
+**Torch Fintech Pvt. Ltd.**
+
+📅 Internship
+
+- 💻 Developed and maintained web application features using modern development practices.
+- 🔗 Built and integrated RESTful APIs for seamless frontend-backend communication.
+- 🛠️ Fixed bugs, optimized application performance, and improved code quality.
+- 🤝 Worked closely with senior developers in an Agile environment.
+- 📚 Gained hands-on experience in software engineering, version control, and production workflows.
+- 🚀 Successfully transitioned from Intern to **Associate Software Engineer (Full-Time)** based on performance.
+
 ---
 
 # 🚀 Currently Working On
@@ -73,45 +88,31 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 
 ## Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,dart,javascript,typescript,sql"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,java,dart,javascript,typescript,sql"/></p>
 
 ## Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind"/></p>
 
 ## Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,django"/></p>
 
 ## AI / ML
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/></p>
 
 ## Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/></p>
 
 ## DevOps & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman"/></p>
 
 ## Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,figma"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=vscode,pycharm,figma"/></p>
 
 ---
 
@@ -131,9 +132,7 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 # 📈 GitHub Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=themakkonen&theme=tokyo-night&hide_border=true&area=true"/>
-
 </p>
 
 ---
@@ -141,25 +140,17 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themakkonen&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themakkonen&theme=tokyonight" width="48%"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=themakkonen&theme=tokyonight" width="48%"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=themakkonen&theme=tokyonight" width="48%"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=themakkonen&theme=tokyonight&utcOffset=5.5" width="48%"/>
-
 </p>
 
 ---
@@ -167,29 +158,7 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=themakkonen&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📌 Currently Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/LLMs-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Agentic_AI-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MLOps-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/System_Design-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cloud_Computing-0099ff?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -197,23 +166,10 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://themakkonen.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/themakkonen">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/harshith-reddy-rollakanti-132494306/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:harshithreddyrollakanti@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<a href="https://themakkonen.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/themakkonen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/harshith-reddy-rollakanti-132494306/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harshithreddyrollakanti@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -222,7 +178,7 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 
 ## 💡 "Building intelligent software that creates real-world impact."
 
-### 💼 Software Engineer @ Torch Fintech Pvt. Ltd.
+### 💼 Associate Software Engineer @ Torch Fintech Pvt. Ltd.
 
 ### 🚀 Building AI-powered FinTech Solutions
 
