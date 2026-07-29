@@ -124,8 +124,8 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 | 💳 **UPI Fraud Detection** | Deep Learning based Fraud Detection using LSTM & Autoencoders |
 | 🤖 **Question Answering System** | DistilBERT-based Intelligent QA System |
 | 👤 **Gender & Age Detector** | AI-powered Real-time Face Analytics |
-| 🏠 **House Price Predictor** | Machine Learning Regression Application |
-| 📧 **Spam Detection System** | NLP-based Spam Classification |
+| 🏠 **Event Management System** | AI Integrated - For Fast Management |
+| 📧 **Synthetic Medical Generator** | Generative Adversarial Networks - Flask Web application |
 
 ---
 
