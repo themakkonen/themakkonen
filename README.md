@@ -24,7 +24,7 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 
 - 💼 Associate Software Engineer (Full-Time) @ **Torch Fintech Pvt. Ltd.**
 - 🎓 B.Tech in Computer Science & Engineering (AI & ML)
-- 🚀 Creator of **LumeX** — Smart Student Identity & Digital Campus Ecosystem
+- 🚀 Creator of **LinkID** — Smart Student Identity & Digital Campus Ecosystem
 - 🤖 Passionate about AI, Machine Learning, NLP, FinTech & System Design
 - 🌱 Exploring **LLMs, RAG, Agentic AI, MLOps & Cloud Technologies**
 - 💡 Building scalable software that solves real-world problems
@@ -80,7 +80,7 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 - 🤖 AI-powered applications using LLMs & RAG
 - 📱 Flutter & React applications
 - ☁️ Learning AWS, Docker, Kubernetes & MLOps
-- 🚀 Developing **LumeX** Student Digital Identity Platform
+- 🚀 Developing **LinkID** Student Digital Identity Platform
 
 ---
 
@@ -120,7 +120,7 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 
 | Project | Description |
 |----------|-------------|
-| 🚀 **LumeX** | Smart Student Identity & Digital Campus Ecosystem |
+| 🚀 **LinkID** | Smart Student Identity & Digital Campus Ecosystem |
 | 💳 **UPI Fraud Detection** | Deep Learning based Fraud Detection using LSTM & Autoencoders |
 | 🤖 **Question Answering System** | DistilBERT-based Intelligent QA System |
 | 👤 **Gender & Age Detector** | AI-powered Real-time Face Analytics |
