@@ -121,11 +121,13 @@ Building production-grade software, AI-powered applications, and scalable FinTec
 | Project | Description |
 |----------|-------------|
 | 🚀 **LinkID** | Smart Student Identity & Digital Campus Ecosystem |
-| 💳 **UPI Fraud Detection** | Deep Learning based Fraud Detection using LSTM & Autoencoders |
+| 💳 **UPI Fraud Detection** | Deep Learning-based Fraud Detection using LSTM & Autoencoders |
 | 🤖 **Question Answering System** | DistilBERT-based Intelligent QA System |
 | 👤 **Gender & Age Detector** | AI-powered Real-time Face Analytics |
-| 🏠 **Event Management System** | AI Integrated - For Fast Management |
-| 📧 **Synthetic Medical Generator** | Generative Adversarial Networks - Flask Web application |
+| 🏠 **Event Management System** | AI-integrated System for Fast Event Management |
+| 📧 **Synthetic Medical Generator** | GAN-based Medical Image Generation with Flask Web Application |
+| 🎙️ **NITA – AI Assistant** | Voice-controlled AI Desktop Assistant with NLP & Hotword Detection |
+| 🎮 **Fit-Quest** | AI-powered Gamified Fitness & Activity Tracking Platform |
 
 ---
 
